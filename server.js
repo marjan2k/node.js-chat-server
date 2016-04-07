@@ -30,7 +30,7 @@ app.use(function (req, res, next) {
 });
 
 server.listen(1337);
-
+console.log('Node server started on port %s', server.address().port)
 
 
 var io = require('socket.io').listen(server);

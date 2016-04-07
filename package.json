@@ -1,0 +1,25 @@
+{
+  "name": "node_chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^1.4.5",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marjan2k/node.js-chat-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marjan2k/node.js-chat-server/issues"
+  },
+  "homepage": "https://github.com/marjan2k/node.js-chat-server#readme"
+}

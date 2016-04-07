@@ -1,6 +1,5 @@
-# Project Title
+# Simple Chat Server With Node.JS
 
-Simple Chat Server With Node.JS
 
 ## Getting Started
 
